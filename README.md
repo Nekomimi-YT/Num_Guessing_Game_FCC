@@ -1,3 +1,3 @@
 # Build a Number Guessing Game
 
-The final project for freeCodeCamp's Relational Database Certification
+Use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
