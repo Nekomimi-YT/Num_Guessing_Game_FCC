@@ -2,7 +2,7 @@
 
 Use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
 
-### Tests to Pass
+### Tests to Pass the Challenge
 
 * Create a number_guessing_game folder in the project folder for your program
 
